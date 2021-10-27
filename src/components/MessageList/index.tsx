@@ -6,12 +6,12 @@ import { Message } from '../Message';
 import { styles } from './styles';
 
 export function MessageList(){
-  
+
   const message = {
     id: '123123',
     text: 'mensagem de teste',
     user: {
-      name: 'Mike',
+      name: 'Mike Fernando',
       avatar_url: 'https://github.com/MikeFernando.png',
     }
   }
